@@ -780,6 +780,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Yahoo Finance](https://www.yahoofinanceapi.com/) | Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange | `apiKey` | Yes | Yes | |
 | [YNAB](https://api.youneedabudget.com/) | Budgeting & Planning | `OAuth` | Yes | Yes | |
 | [Zoho Books](https://www.zoho.com/books/api/v3/) | Online accounting software, built for your business | `OAuth` | Yes | Unknown | |
+| [ExchangeRate.host](https://exchangerate.host) | Free foreign exchange rates API with real-time data | No | Yes | Yes | |
 
 **[⬆ Back to Index](#index)**
 <br >
